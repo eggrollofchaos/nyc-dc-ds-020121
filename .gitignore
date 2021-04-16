@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 *.icloud
 *.zip
+=======
+*.zip
+Phase_1/data_analysis_python/raw_data/EXTR_RPSale.csv
+>>>>>>> course materials
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -8,7 +13,6 @@ __pycache__/
 
 # C extensions
 *.so
-*.zip
 
 # Distribution / packaging
 .Python
@@ -105,7 +109,6 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-Phase_1/data_analysis_python/raw_data/EXTR_RPSale.csv
 
 # Environments
 .env
