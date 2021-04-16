@@ -105,7 +105,7 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-Phase_1/data_analysis_python/raw_data/.EXTR_RPSale.csv.icloud
+Phase_1/data_analysis_python/raw_data/EXTR_RPSale.csv
 
 # Environments
 .env
